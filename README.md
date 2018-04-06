@@ -6,4 +6,3 @@ Ce site a été crée à partir de la plateforme Wix durant le stage de premièr
 
 Voici un petit aperçu du site que vous pouvez trouver sur le lien : https://www.plombier-lyon-2.com/
 
-![PLOMBIER.png](https://github.com/TracyDSilva/Plombier_Lyon_2/blob/master/PLOMBIER.PNG)
